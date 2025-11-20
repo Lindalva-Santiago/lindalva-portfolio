@@ -1,4 +1,8 @@
 # 🌟 Lindalva Augusto Santiago — Professional Portfolio
+
+Welcome to my professional academic and software engineering portfolio.  
+Here you will find my research interests, skills, academic background, projects, and the areas that shape my work in Software Engineering, Generative AI, and Education.
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/PhD-Student-blue?style=for-the-badge">
@@ -7,10 +11,6 @@
 <img src="https://img.shields.io/badge/Software-Engineering-green?style=for-the-badge">
 
 </p>
-
-
-Welcome to my professional academic and software engineering portfolio.  
-Here you will find my research interests, skills, academic background, projects, and the areas that shape my work in Software Engineering, Generative AI, and Education.
 
 ---
 
