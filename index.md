@@ -3,6 +3,10 @@ layout: page
 title: "Lindalva Augusto Santiago — Portfolio"
 ---
 
+<p align="center">
+  <img src="assets/img/Lindalva.jpg" alt="Lindalva Augusto Santiago" width="180" style="border-radius: 50%;">
+</p>
+
 # 👋 Welcome!
 
 I’m **Lindalva Augusto Santiago**, a PhD student in Computer Science at **UFPE (CIn)**.  
