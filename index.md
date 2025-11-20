@@ -4,8 +4,9 @@ title: "Lindalva Augusto Santiago — Portfolio"
 ---
 
 <p align="center">
-  <img src="assets/img/Lindalva.jpg" alt="Lindalva Augusto Santiago" width="180" style="border-radius: 50%;">
+  <img src="assets/img/lindalva.jpg" alt="Lindalva Augusto Santiago" width="180" style="border-radius: 50%;">
 </p>
+
 
 # 👋 Welcome!
 
