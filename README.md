@@ -102,7 +102,7 @@ A list of my relevant certifications can be found in:
 
 ## 📫 Contact
 
-- **Email:** lindalva.augusto@hotmail.com  
+- **Email:** las10@cin.ufpe.br  
 - **LinkedIn:** www.linkedin.com/in/lindalva-santiago-913b52167
 - **Lattes CV:** http://lattes.cnpq.br/4541429283024334  
 - GitHub: **Lindalva-Santiago**
