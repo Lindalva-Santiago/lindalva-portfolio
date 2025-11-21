@@ -1,4 +1,4 @@
-# Certificates
+# 🎓Certificates
 
 A list of relevant courses, certifications, and training completed.
 
