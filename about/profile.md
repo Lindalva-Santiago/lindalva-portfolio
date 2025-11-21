@@ -1,4 +1,4 @@
-# 👩‍🏫 About Me — Lindalva Augusto Santiago
+# About Me — Lindalva Augusto Santiago
 
 I am a PhD student in Computer Science at the Center for Informatics (CIn/UFPE), working at the intersection of **Software Engineering**, **Generative Artificial Intelligence**, and **Educational Technology**.
 
