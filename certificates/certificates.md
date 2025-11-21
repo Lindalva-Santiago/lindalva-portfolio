@@ -25,7 +25,6 @@ A list of relevant courses, certifications, and training completed.
 - Web Development Bootcamp — Any platform you prefer
 - Figma for UI/UX Design — Coursera or YouTube official tutorials
 
-
 ---
 
 ## 🤖 AI & EdTech Courses
@@ -39,6 +38,7 @@ A list of relevant courses, certifications, and training completed.
 - Responsible AI & Ethics — Google ou IBM SkillsBuild
 - Machine Learning for Everyone — Coursera
 - Using AI in Lesson Planning and Assessment — Udemy
+  
 ---
 
 ## 🌱 Continuous Learning
