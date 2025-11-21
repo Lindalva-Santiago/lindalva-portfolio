@@ -38,6 +38,7 @@ A list of relevant courses, certifications, and training completed.
 - Responsible AI & Ethics — Google ou IBM SkillsBuild
 - Machine Learning for Everyone — Coursera
 - Using AI in Lesson Planning and Assessment — Udemy
+
   
 ---
 
