@@ -1,1 +1,29 @@
+---
+---
+
+// Importa o CSS padrão do tema minima
+@import "minima";
+
+/* ====== Personalização do menu superior ====== */
+
+/* Cabeçalho do site */
+.site-header {
+  background: #f9fafb;        /* fundo bem clarinho */
+  border-bottom: 2px solid #e5e7eb;  /* linha embaixo */
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+}
+
+/* Título do site (seu nome) */
+.site-title {
+  font-size: 1.6rem;
+  font-weight: 700;
+}
+
+/* Links do menu (About, Certificates, Projects, Skills, etc.) */
+.site-nav .page-link {
+  font-size: 1.05rem;
+  font-weight: 600;
+  padding: 0 0.8rem;       /* mais espaçamento lateral */
+}
 
