@@ -1,4 +1,4 @@
-# 💻 Software Engineering Projects
+# Software Engineering Projects
 
 This section contains technical projects developed to strengthen programming skills, backend development, and software engineering practices.
 
