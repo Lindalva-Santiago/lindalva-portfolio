@@ -1,4 +1,4 @@
-# Skills & Competencies
+# 🎯 Skills & Competencies
 
 ## 🔧 Technical Skills
 - Python  
