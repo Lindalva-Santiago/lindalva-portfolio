@@ -1,4 +1,4 @@
-# "Education & AI Projects"
+# 🤖 Education & AI Projects
 
 This section gathers projects that combine **Educational Technology**, **Instructional Design**, and **Generative Artificial Intelligence**. These projects are designed to support teachers, enhance learning experiences, and integrate AI into educational practices.
 
