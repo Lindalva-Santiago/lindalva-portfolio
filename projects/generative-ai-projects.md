@@ -1,4 +1,4 @@
-# Generative AI Projects
+# 💡Generative AI Projects
 
 This section includes prototypes, experiments, and studies involving **Large Language Models (LLMs)**, AI workflows, and prompt engineering.
 
