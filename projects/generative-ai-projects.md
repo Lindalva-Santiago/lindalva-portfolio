@@ -35,7 +35,7 @@ Small, focused AI tools:
 
 ---
 
-## 🧪 Experiments & Evaluations
+## 📊 Experiments & Evaluations
 Exploratory studies:
 
 - Prompt structure comparisons  
