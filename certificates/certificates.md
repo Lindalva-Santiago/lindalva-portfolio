@@ -11,7 +11,7 @@ A list of relevant courses, certifications, and training completed.
 
 ---
 
-## 💻 ## Technology & Development Courses
+## 💻 Technology & Development Courses
 
 - Git and GitHub Essentials — Coursera or Digital Innovation One
 - HTML, CSS, and JavaScript Foundations — FreeCodeCamp
