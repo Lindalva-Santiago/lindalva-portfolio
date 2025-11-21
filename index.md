@@ -2,6 +2,9 @@
 layout: page
 title: "Lindalva Augusto Santiago — Portfolio"
 ---
+---
+layout: default
+---
 
 <p align="center">
   <img src="assets/img/Lindalva.jpg" alt="Lindalva Augusto Santiago" width="180" style="border-radius: 50%;">
